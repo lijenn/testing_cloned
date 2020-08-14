@@ -1,1 +1,1 @@
-testing
+A test repository
