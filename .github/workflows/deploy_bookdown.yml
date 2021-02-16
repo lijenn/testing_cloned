@@ -54,3 +54,4 @@ jobs:
           FOLDER: docs
           TARGET_FOLDER: docs # The folder the action should deploy.
           CLEAN: true
+          PRESERVE: true
